@@ -1,0 +1,26 @@
+.parent{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px 2em;
+   font-size: 6px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 30;
+   background-color:palevioletred;
+   
+}
+.img{
+  width: 200px;
+  height: 200px;
+  flex-direction: row;
+  border: 9px solid;
+
+}
+.rechercher{
+  padding-left: 200px;
+  margin-bottom: 30px;
+  
+
+}
+.carte{
+margin-top: 30px;
+}
