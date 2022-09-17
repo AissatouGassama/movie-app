@@ -15,9 +15,10 @@ function App(props) {
     <div className="App">
       
            <Search/> 
-           <Add/>
+          
 
         <MovieList />
+        <Add/>
         
         
 
